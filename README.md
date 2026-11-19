@@ -3,4 +3,5 @@ Temporary README
 Will be updated!
 Trust me please 
 
-The Outlast Trials are peak
+Very Nice Very Good I like programming 
+just not rn sorry
