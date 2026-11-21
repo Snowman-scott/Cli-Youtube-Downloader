@@ -39,5 +39,7 @@ func GetBrowserChoice() string {
 		"5": "",
 	}
 	fmt.Println("To Avoid Bot Detection, we will use your browsers cookies.\nWhich browser are you using?")
-	for // code the for loop
+	for x := range(browserMap) {
+
+	}
 }
